@@ -17,3 +17,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40" style="max-width:100%;"></img>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego105xz&show_icons=true&theme=dark)
