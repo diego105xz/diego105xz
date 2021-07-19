@@ -1,7 +1,7 @@
 
-### Hello World
+### Hello World!
 
-## I'm Diego Melo
+## I'm Diego Melo.
 - 📍  I live in São Paulo, 🇧🇷
 - 💻 Developer Front-End Jr.
 - My Social Network <a href="https://www.linkedin.com/in/diego-melo-1863971b2/">
