@@ -3,7 +3,7 @@
 
 ## I'm Diego Melo.
 - 📍  I live in São Paulo, 🇧🇷
-- 💻 I am Data Engineer
+- 💻 I am Business Intelligence Analytics
 - My Social Network <a href="https://www.linkedin.com/in/diego-melo-1863971b2/">
     <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-melo-1863971b2/">
   </a>
@@ -19,7 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" width="100" height="100" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="java_script" width="100" height="100" style="max-width:100%;"></img>
 <img src="https://github.com/diego105xz/Img/blob/main/SqlServer1.png?raw=true" alt="sqlserver" width="100" height="100" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="100" height="100" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="python" width="100" height="100" style="max-width:100%;"></img>
           
 
 
