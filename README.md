@@ -3,7 +3,7 @@
 
 ## I'm Diego Melo.
 - 📍  I live in São Paulo, 🇧🇷
-- 💻 I am Business Intelligence Analytics
+- 💻 I work as Business Intelligence Analytics
 - My Social Network <a href="https://www.linkedin.com/in/diego-melo-1863971b2/">
     <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-melo-1863971b2/">
   </a>
