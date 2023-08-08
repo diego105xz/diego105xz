@@ -10,8 +10,8 @@
 
 
 ### :mortar_board: Academic Education
-- Análise e Desenvolvimento de Sistemas - Universidade Nove de Julho
-- Desenvolvedor Front-End - DevMedia
+- Analysis and Systems Development - Universidade Nove de Julho
+- Developer Front End - DevMedia
 
 
 ### My Skills
