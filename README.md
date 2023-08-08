@@ -11,7 +11,7 @@
 
 ### :mortar_board: Academic Education
 - Análise e Desenvolvimento de Sistemas - Universidade Nove de Julho
-- Accenture Academy
+- Desenvolvedor Front-End - DevMedia
 
 
 ### My Skills
