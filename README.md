@@ -8,11 +8,9 @@
 - My Social Network <a href="https://www.linkedin.com/in/diego-melo-1863971b2/">
     <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-melo-1863971b2/"> </a>
 
-
 ### :mortar_board: Academic Education
 - Analysis and Systems Development - Universidade Nove de Julho
 - Developer Front End - DevMedia
-
 
 ### My Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html" width="100" height="100" style="max-width:100%;"></img>
