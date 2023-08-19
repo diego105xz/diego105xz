@@ -1,7 +1,7 @@
 
 ### Hello World!
 
-## I'm Diego Melo.
+## I'm Diego Melo
 - 📍  I live in São Paulo, 🇧🇷
 - 💻 I work as Business Intelligence Analytics
 - 📚 I study to be a Front End Developer
