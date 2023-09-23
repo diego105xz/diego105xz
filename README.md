@@ -21,3 +21,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="java_script" width="100" height="100" style="max-width:100%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="100" height="100" style="max-width:100%;"/>
 <img src="https://github.com/diego105xz/Img/blob/main/SqlServer1.png?raw=true" alt="sqlserver" width="100" height="100" style="max-width:100%;"/>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/diego105xz?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
