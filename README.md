@@ -3,7 +3,7 @@
 
 ## I'm Diego Melo.
 - 📍  I live in São Paulo, 🇧🇷
-- 💻 I work as FullStack developer
+- 💻 I work as a FullStack developer at accenture.
 - 📚 I study to be a Front End Developer
 - My Social Network <a style="border-radius= 4px;" href="https://www.linkedin.com/in/diego-melo-1863971b2/">
     <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-melo-1863971b2/"> </a>
@@ -12,6 +12,7 @@
 ### :mortar_board: Academic Education
 - Analysis and Systems Development - Universidade Nove de Julho
 - Developer Front End - DevMedia
+- Developer Front End - Origamid
 
 
 ### My Skills
