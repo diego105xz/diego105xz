@@ -22,6 +22,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="100" height="100" style="max-width:100%;"/>
 <img src="https://github.com/diego105xz/Img/blob/main/SqlServer1.png?raw=true" alt="sqlserver" width="100" height="100" style="max-width:100%;"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego105xz&show_icons=true&theme=transparent)
-
-
+[![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/diego105xz&theme=dark)](https://git.io/awesome-stats-card)
