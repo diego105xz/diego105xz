@@ -3,7 +3,7 @@
 
 ## I'm Diego Melo.
 - 📍  I live in São Paulo, 🇧🇷
-- 💻 I work as Business Intelligence Analytics
+- 💻 I work as FullStack developer
 - 📚 I study to be a Front End Developer
 - My Social Network <a style="border-radius= 4px;" href="https://www.linkedin.com/in/diego-melo-1863971b2/">
     <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-melo-1863971b2/"> </a>
