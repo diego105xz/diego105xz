@@ -20,4 +20,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" width="100" height="100" style="max-width:100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="java_script" width="100" height="100" style="max-width:100%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="100" height="100" style="max-width:100%;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  alt="php" width="100" height="100" style="max-width:100%" />
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="100" height="100" style="max-width:100%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="100" height="100" style="max-width:100%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="100" height="100" style="max-width:100%" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="100" height="100" style="max-width:100%;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="100" height="100" style="max-width:100%;"/>
+<img src="https://github.com/diego105xz/RepositorioImg/blob/main/rest_API.png" alt="docker" width="100" style="max-width:100%;"/>
+
